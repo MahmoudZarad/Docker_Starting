@@ -1,0 +1,116 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hooda\\Desktop\\Web\\StudentApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8D14652B-E403-0644-5C1C-139401D8A146}|StudentApi.csproj|c:\\users\\hooda\\desktop\\web\\studentapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D14652B-E403-0644-5C1C-139401D8A146}|StudentApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D14652B-E403-0644-5C1C-139401D8A146}|StudentApi.csproj|c:\\users\\hooda\\desktop\\web\\studentapi\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D14652B-E403-0644-5C1C-139401D8A146}|StudentApi.csproj|solutionrelative:controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D14652B-E403-0644-5C1C-139401D8A146}|StudentApi.csproj|c:\\users\\hooda\\desktop\\web\\studentapi\\repositories\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D14652B-E403-0644-5C1C-139401D8A146}|StudentApi.csproj|solutionrelative:repositories\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D14652B-E403-0644-5C1C-139401D8A146}|StudentApi.csproj|c:\\users\\hooda\\desktop\\web\\studentapi\\interfaces\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D14652B-E403-0644-5C1C-139401D8A146}|StudentApi.csproj|solutionrelative:interfaces\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D14652B-E403-0644-5C1C-139401D8A146}|StudentApi.csproj|c:\\users\\hooda\\desktop\\web\\studentapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D14652B-E403-0644-5C1C-139401D8A146}|StudentApi.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "C:\\Users\\hooda\\Desktop\\Web\\StudentApi\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StudentsController.cs",
+              "ToolTip": "C:\\Users\\hooda\\Desktop\\Web\\StudentApi\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "Controllers\\StudentsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-04T16:46:03.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hooda\\Desktop\\Web\\StudentApi\\Repositories\\StudentRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\StudentRepository.cs",
+              "ToolTip": "C:\\Users\\hooda\\Desktop\\Web\\StudentApi\\Repositories\\StudentRepository.cs",
+              "RelativeToolTip": "Repositories\\StudentRepository.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA4wBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-04T16:42:00.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IStudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hooda\\Desktop\\Web\\StudentApi\\Interfaces\\IStudentRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IStudentRepository.cs",
+              "ToolTip": "C:\\Users\\hooda\\Desktop\\Web\\StudentApi\\Interfaces\\IStudentRepository.cs",
+              "RelativeToolTip": "Interfaces\\IStudentRepository.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAowAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-04T16:39:13.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hooda\\Desktop\\Web\\StudentApi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\hooda\\Desktop\\Web\\StudentApi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAxwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-04T16:37:44.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\hooda\\Desktop\\Web\\StudentApi\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\hooda\\Desktop\\Web\\StudentApi\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-04T16:37:19.954Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
